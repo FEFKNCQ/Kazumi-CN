@@ -1,3 +1,12 @@
+> **下载说明**
+> 优先推荐从百度网盘下载（含完整 release 文件，可用提取码获取），无需访问 GitHub：
+> **百度网盘**：https://pan.baidu.com/s/1bORdFpEjdrggsC1yk7KdDg?pwd=2bhs
+>
+> **夸克网盘**：https://pan.quark.cn/s/043bbe7de300
+>
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/Kazumi/releases) 下载。
+
+
 <div align=center>
 
 <h1>Kazumi</h1>
