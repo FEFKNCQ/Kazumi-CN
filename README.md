@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/043bbe7de300
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/Kazumi/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/Kazumi-CN/releases) 下载。
 
 
 <div align=center>
